@@ -1,5 +1,6 @@
 # 💫 About Me:
-Hi, I'm SAJAN SHANDILYA 👋<br>🚀 BCA (AIML) Student at Shobhit University | Software Developer | AI Enthusiast<br><br>I'm passionate about building intelligent systems and scalable web applications. Currently focused on developing custom Generative AI text models (Project Varah / Katyayini) and exploring the intersection of AI and web technologies.<br><br>💻 Tech Stack: Python, Java, C, JavaScript, HTML/CSS<br>🌱 Currently Learning & Building: Advanced LLMs, RAG, and AI-driven applications.<br>📫 Reach me at: deadxsleeping@gmail.com
+Hi, I'm SAJAN SHANDILYA 👋<br>🚀 BCA (AIML) Student at Shobhit University | Software Developer | AI Enthusiast<br><br>I'm passionate about building intelligent systems and scalable web applications. Currently focused on developing custom Generative AI text models (Project Varah / Katyayini) and exploring the intersection of AI and web technologies.<br><br>💻 Tech Stack: Python, Java, C, JavaScript, HTML/CSS<br>🌱 Currently Learning & Building: Advanced LLMs, RAG, and AI-driven applications.<br>📫 Reach me at: sajankumarthakur28771@gmail.com
+
 
 
 ## 🌐 Socials:
